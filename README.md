@@ -1,7 +1,7 @@
 <p align="center">
   <!-- Dynamic Animated Typing Banner -->
   <a href="https://youtube.com/@CODEWITHFUTURE-manjas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=850&height=70&lines=SYSTEM.INIT%3A+WELCOME+TO+THE+NEURAL+GRID%E2%9A%A1%3B%3F+CREATOR+OF+CODE+WITH+FUTURE+(%40CODEWITHFUTURE-manjas)%3B%F0%9F%A4%96+AI+AGENTS+%7C+FULLSTACK+ARCHITECTURE+%7C+CLOUD%3B%F0%9F%9A%80+ENGINEERING+THE+NEXT+GENERATION+OF+SOFTWARE%3B%F0%9F%92%BB+BUILDING+OPEN-SOURCE+ECOSYSTEMS" alt="Cyber Profile Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vcenter=true&width=850&height=70&lines=SYSTEM.INIT%3A+WELCOME+TO+THE+NEURAL+GRID%E2%9A%A1%3B12-YEAR-OLD+FULLSTACK+%26+AI+DEVELOPER%F0%9F%9A%80%3BCREATOR+OF+CODE+WITH+FUTURE+(%40CODEWITHFUTURE-manjas)%3B%F0%9F%A4%96+BUILDING+THE+FUTURE+OF+SOFTWARE" alt="Cyber Profile Banner" />
   </a>
 </p>
 
@@ -10,10 +10,10 @@
     <img src="https://img.shields.io/badge/YOUTUBE-@CODEWITHFUTURE--manjas-FF0055?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GRID_STATUS-ONLINE-00FF66?style=for-the-badge&logo=statuspage&logoColor=black" />
+    <img src="https://img.shields.io/badge/AGE-12_YEARS_OLD-00FF66?style=for-the-badge&logo=codeforces&logoColor=black" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/PROFILE_VIEWS-COUNTING-7000FF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GRID_STATUS-ONLINE-7000FF?style=for-the-badge&logo=statuspage&logoColor=white" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
     <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F0FF" />
@@ -32,16 +32,17 @@
 ┌───(GUEST@YOUR_GITHUB_USERNAME)-[~/IDENTITY_CORE]
 └─$ cat profile_manifest.json
 {
-  "engineer": "Creator & Full-Stack / AI Architect",
+  "engineer": "Full-Stack Developer & AI Architect",
+  "age": 12,
   "channel": "CODE WITH FUTURE (@CODEWITHFUTURE-manjas)",
   "location": "Global Grid / Remote",
   "focus_areas": ["AI Agents", "LLM Pipelines", "Next.js 15+", "Distributed Backend", "Cloud Architecture"],
-  "mission": "Empowering developers through high-production code walkthroughs & open-source software.",
-  "status": "🔴 Live building projects & creating video content"
+  "mission": "Proving age is just a number — engineering modern software & teaching developers worldwide at 12 years old!",
+  "status": "🔴 Live building projects & creating video tutorials"
 }
 ```
 
-> **`SYSTEM MESSAGE`**: Welcome to my official GitHub profile core. Here you'll find the complete source code repositories behind **CODE WITH FUTURE** tutorials, personal open-source projects, and advanced software blueprints.
+> **`SYSTEM MESSAGE`**: Welcome to my official GitHub profile core. I am a 12-year-old self-taught programmer, tech creator, and founder of **CODE WITH FUTURE**. Here you will find all the open-source codebases, AI blueprints, and web architecture featured in my videos.
 
 ---
 
@@ -80,7 +81,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 </details>
 
@@ -109,22 +109,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>☁️ [MODULE 05] Cloud, DevOps & Developer Tools</b></summary>
-<br />
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=00F0FF" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 </details>
 
@@ -132,7 +116,7 @@
 
 ## 📺 YOUTUBE COMMAND CENTER: CODE WITH FUTURE
 
-On **CODE WITH FUTURE** (`@CODEWITHFUTURE-manjas`), we explore next-generation tech, build real-world SaaS applications, integrate AI systems, and break down complex concepts into step-by-step guides.
+On **CODE WITH FUTURE** (`@CODEWITHFUTURE-manjas`), I share my journey as a 12-year-old builder exploring next-generation tech, building real-world SaaS applications, integrating AI systems, and creating step-by-step programming tutorials.
 
 <p align="center">
   <a href="https://youtube.com/@CODEWITHFUTURE-manjas">
@@ -148,22 +132,6 @@ On **CODE WITH FUTURE** (`@CODEWITHFUTURE-manjas`), we explore next-generation t
 | ⚡ **Full-Stack SaaS** | Next.js 15, Supabase, Stripe | End-to-end multi-tenant Web Apps with authentication and payments. |
 | 🚀 **Modern Web UI** | React, Tailwind CSS, Framer | High-performance, responsive, and animated frontend layouts. |
 | ⚙️ **Microservices & APIs** | Node.js, FastAPI, PostgreSQL | Scalable REST & GraphQL backend architectures with Docker containers. |
-
----
-
-## 🛠️ FEATURED REPOSITORIES & BLUEPRINTS
-
-```text
-┌───(GUEST@YOUR_GITHUB_USERNAME)-[~/PROJECT_VAULT]
-└─$ ls -l --sort=stars
-```
-
-| Repository | Tech Stack | Status | Video Link |
-| :--- | :--- | :--- | :--- |
-| 🚀 **`nextjs-ai-saas-starter`** | Next.js, Tailwind, OpenAI, Supabase | `ONLINE` | [Watch Video](https://youtube.com/@CODEWITHFUTURE-manjas) |
-| 🤖 **`autonomous-python-agent`** | Python, LangChain, Tavily Search API | `ONLINE` | [Watch Video](https://youtube.com/@CODEWITHFUTURE-manjas) |
-| ⚙️ **`fastapi-postgresql-boilerplate`** | Python, FastAPI, Docker, JWT | `STABLE` | [Watch Video](https://youtube.com/@CODEWITHFUTURE-manjas) |
-| 🎨 **`animated-cyber-portfolio`** | React, Three.js, Framer Motion | `STABLE` | [Watch Video](https://youtube.com/@CODEWITHFUTURE-manjas) |
 
 ---
 
@@ -188,21 +156,21 @@ On **CODE WITH FUTURE** (`@CODEWITHFUTURE-manjas`), we explore next-generation t
 ## ❓ FREQUENTLY ASKED QUESTIONS (FAQ)
 
 <details>
-<summary><b>❓ Can I use the code from CODE WITH FUTURE tutorials in my commercial projects?</b></summary>
+<summary><b>❓ Are you really only 12 years old?</b></summary>
 <br />
-Yes! Unless otherwise noted, all repository code on this GitHub profile is released under the <b>MIT License</b>. You can freely adapt, modify, and build commercial apps using these blueprints.
+Yes! I started coding at a young age, fell in love with building web applications and AI tools, and decided to launch <b>CODE WITH FUTURE</b> to share everything I learn with developers of all ages.
 </details>
 
 <details>
-<summary><b>❓ Where can I submit video topic requests or project ideas?</b></summary>
+<summary><b>❓ Can I use the code from CODE WITH FUTURE tutorials in my projects?</b></summary>
 <br />
-You can leave a comment directly on any video on <a href="https://youtube.com/@CODEWITHFUTURE-manjas">YouTube (@CODEWITHFUTURE-manjas)</a> or start a discussion under the GitHub Discussions tab in the relevant project repository.
+Yes! All code repositories on this GitHub profile are released under the <b>MIT License</b>. You can freely use, modify, and build commercial apps using these blueprints.
 </details>
 
 <details>
-<summary><b>❓ How do I run the tutorial projects locally?</b></summary>
+<summary><b>❓ Where can I submit video topic requests?</b></summary>
 <br />
-Every sub-project repository includes a detailed <code>README.md</code> with step-by-step terminal instructions, environment variable (<code>.env.example</code>) configurations, and dependency installation scripts.
+Drop a comment on any video on <a href="https://youtube.com/@CODEWITHFUTURE-manjas">YouTube (@CODEWITHFUTURE-manjas)</a> or start a discussion under GitHub Discussions in the project repos!
 </details>
 
 ---
