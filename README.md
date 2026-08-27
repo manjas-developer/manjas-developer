@@ -29,7 +29,7 @@
 ## ⚡ TRANSMISSION PROTOCOL & SYSTEM IDENTITY
 
 ```text
-┌───(GUEST@YOUR_GITHUB_USERNAME)-[~/IDENTITY_CORE]
+┌───(GUEST@manjas-developer)-[~/IDENTITY_CORE]
 └─$ cat profile_manifest.json
 {
   "engineer": "Full-Stack Developer & AI Architect",
