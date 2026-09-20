@@ -14,6 +14,7 @@ I'm **Manjas Anand**, a 13-year-old student and aspiring **Linux Kernel Develope
 
 ### Languages
 - **C** - Building systems-level applications
+- **C++** - Excelling at competitive programming
 - **Python** - Scripting and rapid prototyping
 - **Rust** - Systems programming with modern safety
 - **Bash** - Shell scripting and automation
