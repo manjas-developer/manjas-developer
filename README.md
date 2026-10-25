@@ -1,100 +1,117 @@
-# Hey there! 👋 Welcome to my GitHub!
+# Hi, I'm Manjas Anand 👋
 
-I'm **Manjas Anand**, a 13-year-old student and aspiring **Linux Kernel Developer**. I'm passionate about low-level systems programming and building the tools that power the digital world. Currently on a journey to master the fundamentals that will prepare me for kernel development!
+### 13-year-old Student | Programmer | Tech Enthusiast
+
+Welcome to my GitHub profile! I'm a Class 8 student from **Bihar, India**, who enjoys technology, programming, and building useful projects.
+
+I’m currently learning **competitive programming with C++** and exploring backend development, DevOps, and open source. I also have access to the **GitHub Student Developer Pack**, which helps me learn and build more.
+
+> **Keep Learning, Keep Growing.**
+
+---
 
 ## 🚀 About Me
 
-- 🧠 **Goal**: Become a Linux Kernel Developer
-- 💻 **Passion**: Systems programming, open-source contribution, and understanding how computers really work
-- 📚 **Currently Learning**: Deep diving into Python, C, Rust, SQL, and Bash scripting
-- 🔧 **Building**: Creating programming languages and contributing to the developer community
-- ⚡ **Fun Fact**: I believe that understanding the kernel is the gateway to true mastery of computing
+- 🎓 Class 8 student
+- 💻 Passionate about programming and technology
+- 🧠 Currently learning competitive programming with C++
+- 🔧 Interested in backend development and DevOps
+- 🌐 Creator of **Cruise**, my own programming language
+- 📚 Building educational tools for students
+- 🤝 Interested in creating websites and learning from others
+- 🌱 Always exploring new technologies and ideas
 
-## 🛠️ Skills & Technologies
+---
 
-### Languages
-- **C** - Building systems-level applications
-- **C++** - Excelling at competitive programming
-- **Python** - Scripting and rapid prototyping
-- **Rust** - Systems programming with modern safety
-- **Bash** - Shell scripting and automation
-- **SQL** - Database management
-- **Cruise-Lang** - My own programming language creation!
+## 🛠️ Skills and Technologies
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Areas of Interest
-- Linux Kernel Architecture
-- Systems Programming
-- Low-level Networking
-- Memory Management & Optimization
-- Open-Source Development
-- Compiler Design
 
-### Tools & Platforms
-- Linux/Unix environments
-- Git & GitHub
-- Command-line tools
-- Virtual Machines & Containers
-
-## 🏆 Featured Projects
-
-### [Cruise-Lang](https://github.com/manjas-developer/cruise-lang)
-**My proudest creation!** A programming language I designed and built from scratch. This project demonstrates my passion for understanding how languages work at a fundamental level — an essential stepping stone toward kernel development.
-
-*Status: In active development* 🚀
-
-## 📖 Learning Path to Kernel Development
-
-I'm systematically building the foundational knowledge needed for kernel programming:
-
-1. ✅ **Core C & Systems Programming** - Understanding memory, pointers, and low-level operations
-2. ✅ **Bash & Scripting** - Mastering the command line
-3. 🔄 **Rust & Modern Systems Lang** - Learning safe systems programming
-4. 📅 **Operating Systems Fundamentals** - Understanding processes, threads, scheduling
-5. 📅 **Linux Kernel Exploration** - Reading and contributing to kernel code
-6. 📅 **Embedded Systems & Device Drivers** - Building practical kernel applications
-
-## 🌱 Growth & Contributions
-
-As a young developer, I'm:
-- 🔍 Exploring open-source projects
-- 💡 Contributing ideas and code to the community
-- 📝 Documenting my learning journey
-- 🤝 Eager to learn from experienced developers
-- 🎯 Focused on building real, meaningful projects
-
-## 📊 What's Next?
-
-I'm actively:
-- Reading Linux kernel source code
-- Studying operating system concepts
-- Contributing to beginner-friendly open-source projects
-- Building projects that deepen my systems programming skills
-- Networking with the developer community
-
-## 🔗 Let's Connect
-
-- 📧 **Email**: [manjasanand08@gmail.com](mailto:manjasanand08@gmail.com)
-- 💼 **GitHub**: [@manjas-developer](https://github.com/manjas-developer)
-- 🌐 **Open to**: Collaborations, mentorship, and learning opportunities
-
-## 💡 Philosophy
-
-> *"The best way to predict the future of computing is to understand its foundation. Every great developer starts by understanding the kernel."*
-
-I believe that by starting my journey toward kernel development at a young age, I'm building the deep technical foundation that will make me an exceptional systems programmer. I'm excited about the challenges ahead and committed to continuous learning!
+- Backend Development
+- DevOps
+- Competitive Programming
+- Programming Language Development
+- Web Development
+- Educational Technology
+- Open Source
 
 ---
 
-## ✨ Fun Facts About Me
+## 🌟 Featured Projects
 
-- 🎮 Love debugging — there's a puzzle to solve in every problem
-- 🧬 Fascinated by how abstractions layer on top of simple concepts
-- 🚀 Dream: Contribute to the Linux kernel mainline
-- 📚 Lifelong learner who believes age is just a number in tech
-- 💪 Perseverance is my superpower
+### [Cruise Programming Language](https://cruise.manjas.me)
+
+A beginner-friendly programming language created by me. Cruise is designed to be easy to use, simple to learn, and ready for AI-powered development.
+
+### [Quiz Zone Online](https://quizzoneonline.manjas.me)
+
+An educational quiz platform designed to help school students study, practice, and learn through interactive quizzes.
 
 ---
 
-**Thanks for visiting my GitHub! Whether you're a fellow developer, a mentor, or just curious, feel free to explore my projects and reach out. Let's build amazing things together!** 🚀
+## 📚 Currently Learning
 
-*Last updated: September 2026*
+- Competitive Programming
+- C++
+- Data Structures and Algorithms
+- Problem Solving
+- Backend Development
+- DevOps and Cloud Technologies
+
+---
+
+## 🤝 Open to
+
+- Creating websites
+- Collaborating on interesting projects
+- Learning from other developers
+- Exploring open-source projects
+- Building useful tools for students and learners
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manjas-developer&show_icons=true&theme=dark&hide_border=true" alt="Manjas Anand's GitHub statistics" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjas-developer&layout=compact&theme=dark&hide_border=true" alt="Manjas Anand's top languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manjas-developer&theme=dark&hide_border=true" alt="Manjas Anand's GitHub contribution streak" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Website: [manjas.me](https://manjas.me)
+- 💻 GitHub: [@manjas-developer](https://github.com/manjas-developer)
+- 📧 Email: [contact@manjas.me](mailto:contact@manjas.me)
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manjas-developer&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+  <br />
+  Keep Learning, Keep Growing 🚀
+</p>
