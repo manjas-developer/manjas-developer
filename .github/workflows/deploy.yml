@@ -23,7 +23,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://manjas-developer.github.io/manjas-developer/
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
